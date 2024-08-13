@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kailash Ramakrishnan 
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning the basics of creating neural networks
+- 🌱 I’m currently working on machine learning, web UI/UX projects.
 - 💞️ I’m looking to collaborate on machine learning related courses
 - 📫 How to reach me reachkailash03@gmail.com
 - ⚡ Fun fact: I always run the same code again without fixing a single line hoping the error fixes itself
