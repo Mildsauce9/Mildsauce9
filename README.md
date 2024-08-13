@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mildsauce9
+- 👋 Hi, I’m Kailash Ramakrishnan 
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning the basics of creating neural networks
 - 💞️ I’m looking to collaborate on machine learning related courses
